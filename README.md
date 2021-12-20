@@ -59,3 +59,4 @@ For this analysis, our purpose is to analyze credit risk from data generated fro
 - Our 'low_risk' precision is 100%, with a recall (sensitivity) of 94%, and a F1 score of 97%.
 
 ## Summary
+All of the models above show a weak precision to determining if a credit risk is high. Out of the 6 models, the Easy Ensemble model performed the best with an accuracy score of 92.5%. As well with a recall score of 91% for 'high_risk' and a 94% for 'low_risk', this provides the best and most accurate information amongst the models. That being said, I would recommend that the Easy Ensemble Classifier model is the best to choose from when determining credit risk for the company LendingClub.
