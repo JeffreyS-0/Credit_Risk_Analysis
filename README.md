@@ -50,4 +50,12 @@ For this analysis, our purpose is to analyze credit risk from data generated fro
 - Our 'low_risk' precision is 100%, with a recall (sensitivity) of 91%, and a F1 score of 95%.
 
 ### Easy Ensemble Classifier Model
+![EasyEnsemble-BalancedAccuracyScore](https://user-images.githubusercontent.com/69607218/146702765-92539f10-f5c4-4bf5-94f1-0bf2441c4a09.png)
+- With the Easy Ensemble Classifier model, we can see that our Balanced Accuracy Score is at 92.5%.
 
+![EasyEnsemble-ConfusionMatrix](https://user-images.githubusercontent.com/69607218/146702909-7a5a480e-499b-4e46-8b20-e9a75f3d385f.png)
+![EasyEnsemble-ClassificationReport](https://user-images.githubusercontent.com/69607218/146702926-f72c17d1-5fb0-4c4f-8b94-2c9fa8496ece.png)
+- Using our Confusion Matrix to calculate our Imbalanced Classification Report, we can see that our 'high_risk' precision is at 7%, with a recall (sensitivity) of 91%, and a F1 score of 14%.
+- Our 'low_risk' precision is 100%, with a recall (sensitivity) of 94%, and a F1 score of 97%.
+
+## Summary
